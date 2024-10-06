@@ -6,14 +6,15 @@ This repository contains the training code for our ICLR 2025 submission [SimPER:
 
 ### Environment
 
-Install PyTorch `2.1.2` from the [PyTorch Installation Page](https://pytorch.org/get-started/locally/).
+First, install PyTorch `2.1.2` from the [PyTorch Installation Page](https://pytorch.org/get-started/locally/).
 
-First, create a Python virtual environment using e.g. Conda:
+Create a Python virtual environment using e.g. Conda:
+
 ```shell
 conda create -n SimPER python=3.10 && conda activate SimPER
 ```
 
-We provide an [environment file](xx) including the python package versions in our experiments for reproducibility. 
+We provide an [environment file](https://github.com/tengxiao1/SimPER/blob/main/environment.yml) including the python package versions in our experiments for reproducibility. 
 
 You will also need Flash Attention 2 installed, which can be done by running:
 

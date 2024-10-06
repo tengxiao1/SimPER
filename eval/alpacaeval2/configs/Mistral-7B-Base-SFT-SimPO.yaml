@@ -2,7 +2,7 @@ Mistral-7B-Base-SFT-SimPER:
   prompt_template: templates/mistral_base.txt
   fn_completions: vllm_local_completions
   completions_kwargs:
-    model_name: princeton-nlp/Mistral-7B-Base-SFT-SimPER
+    model_name: outputs/Mistral-7B-Base-SFT-SimPER
     model_kwargs:
       torch_dtype: 'bfloat16'
     max_new_tokens: 2048

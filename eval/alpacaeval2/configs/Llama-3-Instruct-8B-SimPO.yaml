@@ -5,7 +5,7 @@ Llama-3-Instruct-8B-SimPER:
     max_new_tokens: 4096
     model_kwargs:
       torch_dtype: bfloat16
-    model_name: princeton-nlp/Llama-3-Instruct-8B-SimPER
+    model_name: outputs/Llama-3-Instruct-8B-SimPER
     stop_token_ids:
     - 128001
     - 128009

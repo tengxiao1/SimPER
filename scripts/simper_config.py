@@ -56,7 +56,7 @@ class SimPOConfig(TrainingArguments):
     gamma_beta_ratio: float = 0.25
     sft_weight: float = 0.0
     label_smoothing: float = 0
-    loss_type: Literal["sigmoid", "hinge"] = "sigmoid"
+    loss_type: Literal["sigmoid", "hinge","SimPER"] = "SimPER"
     disable_dropout: bool = True
 
     label_pad_token_id: int = -100

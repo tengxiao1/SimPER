@@ -61,3 +61,15 @@ We build our project based on
 - [SimPO](https://github.com/princeton-nlp/SimPO/tree/main?tab=readme-ov-file)
 - [The Alignment Handbook](https://github.com/huggingface/alignment-handbook)
 - [TRL-Transformer Reinforcement Learning](https://github.com/huggingface/trl)
+
+##  Reference 
+
+If you find our repo to be useful, please cite our paper:
+```bibtex
+@inproceedings{SimPER2025,
+  title={SimPER: A Minimalist Approach to Preference Alignment without Hyperparameters},
+  author={Xiao, Teng; Yuan, Yige; Chen, Zhengyu; Li, Mingxiao; Liang, Shangsong; Ren, Zhaochun; Honavar, Vasant G.},
+  booktitle={International Conference on Learning Representations (ICLR)},
+  year={2025}
+}
+

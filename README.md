@@ -1,4 +1,4 @@
-# SimPER: A Minimalist Approach to Preference Alignment without Hyperparameters (ICLR 2025)
+## SimPER: A Minimalist Approach to Preference Alignment without Hyperparameters (ICLR 2025)
 
 **TL; DR:** We propose a simpler yet more effective preference fine-tuning algorithm than DPO and SimPO without both hyperparameters and reference models. SimPER consistently and significantly  outperforms DPO and latest SimPO across   various settings.
 

@@ -24,7 +24,7 @@ python -m pip install flash-attn --no-build-isolation
 
 ## Training Scripts
 
-We provide four training config files for the four training setups reported in our paper. The training config is set for 4xA100 GPUs. You may need to adjust `num_processes` and `per_device_train_batch_size` based on your computation environment. 
+We provide four training config files for the four training setups reported in our paper. The training config is set for 4xA100 GPUs. 
 
 * Mistral-Base:
 ```shell

@@ -2,7 +2,8 @@
 
 **TL; DR:** We propose a simpler yet more effective preference fine-tuning algorithm than DPO and SimPO without both hyperparameters and reference models. SimPER consistently and significantly  outperforms DPO and latest SimPO across   various settings.
 
-
+### News 🎉
+Our SimPER has been used as the training algorithm in the recent work [EXAONE Deep: Reasoning Enhanced Language Models](https://arxiv.org/pdf/2503.12524) from [LG AI Research](https://www.lgresearch.ai/). Their open models ([available on HuggingFace](https://huggingface.co/LGAI-EXAONE)) achieved better and competitive performance in math, science, and coding tasks compared to SOTA LLMs QwQ 32B and DeepSeek R1 671B!
 
 ### Environment
 

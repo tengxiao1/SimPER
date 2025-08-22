@@ -5,6 +5,11 @@
 ### News 🎉
 Our SimPER has been used as the training algorithm in the recent work [EXAONE Deep: Reasoning Enhanced Language Models](https://arxiv.org/pdf/2503.12524) from [LG AI Research](https://www.lgresearch.ai/). Their opened EXAONE series models ([HuggingFace](https://huggingface.co/collections/LGAI-EXAONE/exaone-deep-67d119918816ec6efa79a4aa)) achieved better and competitive performance in math, science, and coding tasks compared to SOTA LLMs QwQ 32B and DeepSeek R1 671B!
 
+[EXAONE Deep: Reasoning Enhanced Language Models](https://arxiv.org/pdf/2507.11407) also utilizs our SimPER for preference optimization, and demonstrates superior performance compared to open-weight models in its class and remains competitive even against frontier-class models
+
+
+
+
 ### Environment
 
 First, install PyTorch `2.1.2` from the [PyTorch Installation Page](https://pytorch.org/get-started/locally/).
